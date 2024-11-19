@@ -52,3 +52,12 @@
 [submodule "type2/ipxe"]
 	path = type2/ipxe
 	url = git@github.com:ipxe/ipxe.git
+[submodule "type3/openblt"]
+	path = type3/openblt
+	url = git@github.com:feaser/openblt.git
+[submodule "type3/mcuboot"]
+	path = type3/mcuboot
+	url = git@github.com:mcu-tools/mcuboot.git
+[submodule "type3/IMBootloader"]
+	path = type3/IMBootloader
+	url = git@github.com:IMProject/IMBootloader.git
