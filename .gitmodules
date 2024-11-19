@@ -1,0 +1,21 @@
+[submodule "type1/LakeBIOS"]
+	path = type1/LakeBIOS
+	url = git@github.com:AtieP/LakeBIOS.git
+[submodule "type1/edk2"]
+	path = type1/edk2
+	url = git@github.com:tianocore/edk2.git
+[submodule "type1/openbios"]
+	path = type1/openbios
+	url = git@github.com:openbios/openbios.git
+[submodule "type2/openblt"]
+	path = type2/openblt
+	url = git@github.com:feaser/openblt.git
+[submodule "type2/wolfBoot"]
+	path = type2/wolfBoot
+	url = git@github.com:wolfSSL/wolfBoot.git
+[submodule "type2/mcuboot"]
+	path = type2/mcuboot
+	url = git@github.com:mcu-tools/mcuboot.git
+[submodule "type2/IMBootloader"]
+	path = type2/IMBootloader
+	url = git@github.com:IMProject/IMBootloader.git
