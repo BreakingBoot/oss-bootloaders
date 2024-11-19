@@ -7,18 +7,6 @@
 [submodule "type1/openbios"]
 	path = type1/openbios
 	url = git@github.com:openbios/openbios.git
-[submodule "type2/openblt"]
-	path = type2/openblt
-	url = git@github.com:feaser/openblt.git
-[submodule "type2/wolfBoot"]
-	path = type2/wolfBoot
-	url = git@github.com:wolfSSL/wolfBoot.git
-[submodule "type2/mcuboot"]
-	path = type2/mcuboot
-	url = git@github.com:mcu-tools/mcuboot.git
-[submodule "type2/IMBootloader"]
-	path = type2/IMBootloader
-	url = git@github.com:IMProject/IMBootloader.git
 [submodule "type3/arduino-variometer"]
 	path = type3/arduino-variometer
 	url = git@github.com:prunkdump/arduino-variometer.git
