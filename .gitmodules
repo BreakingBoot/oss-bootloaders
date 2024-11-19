@@ -19,3 +19,48 @@
 [submodule "type2/IMBootloader"]
 	path = type2/IMBootloader
 	url = git@github.com:IMProject/IMBootloader.git
+[submodule "type3/arduino-variometer"]
+	path = type3/arduino-variometer
+	url = git@github.com:prunkdump/arduino-variometer.git
+[submodule "type2/easyboot"]
+	path = type2/easyboot
+	url = https://gitlab.com/bztsrc/easyboot.git
+[submodule "type2/tosaithe"]
+	path = type2/tosaithe
+	url = git@github.com:davmac314/tosaithe.git
+[submodule "type2/slimbootloader"]
+	path = type2/slimbootloader
+	url = git@github.com:slimbootloader/slimbootloader.git
+[submodule "type2/lbmk"]
+	path = type2/lbmk
+	url = https://codeberg.org/libreboot/lbmk.git
+[submodule "type2/grub"]
+	path = type2/grub
+	url = https://git.savannah.gnu.org/git/grub.git
+[submodule "type2/CloverBootloader"]
+	path = type2/CloverBootloader
+	url = git@github.com:CloverHackyColor/CloverBootloader.git
+[submodule "type2/u-boot"]
+	path = type2/u-boot
+	url = git@github.com:u-boot/u-boot.git
+[submodule "type2/limine"]
+	path = type2/limine
+	url = git@github.com:limine-bootloader/limine.git
+[submodule "type2/coreboot"]
+	path = type2/coreboot
+	url = git@github.com:coreboot/coreboot.git
+[submodule "type2/chameleon"]
+	path = type2/chameleon
+	url = git@github.com:rescbr/chameleon.git
+[submodule "type2/barebox"]
+	path = type2/barebox
+	url = git@github.com:barebox/barebox.git
+[submodule "type2/shim"]
+	path = type2/shim
+	url = git@github.com:rhboot/shim.git
+[submodule "type2/open-iscsi"]
+	path = type2/open-iscsi
+	url = git@github.com:open-iscsi/open-iscsi.git
+[submodule "type2/ipxe"]
+	path = type2/ipxe
+	url = git@github.com:ipxe/ipxe.git
