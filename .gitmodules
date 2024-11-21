@@ -67,3 +67,18 @@
 [submodule "type3/threadx"]
 	path = type3/threadx
 	url = git@github.com:eclipse-threadx/threadx.git
+[submodule "type1/seabios"]
+	path = type1/seabios
+	url = git@github.com:coreboot/seabios.git
+[submodule "type3/arm-trusted-firmware"]
+	path = type3/arm-trusted-firmware
+	url = git@github.com:ARM-software/arm-trusted-firmware.git
+[submodule "type3/hafnium"]
+	path = type3/hafnium
+	url = https://review.trustedfirmware.org/hafnium/hafnium.git
+[submodule "type3/mbedtls"]
+	path = type3/mbedtls
+	url = git@github.com:Mbed-TLS/mbedtls.git
+[submodule "type3/lk"]
+	path = type3/lk
+	url = git@github.com:littlekernel/lk.git
