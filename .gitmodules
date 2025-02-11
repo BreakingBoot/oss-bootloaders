@@ -82,3 +82,9 @@
 [submodule "type3/lk"]
 	path = type3/lk
 	url = git@github.com:littlekernel/lk.git
+[submodule "type2/MiniVisorPkg"]
+	path = type2/MiniVisorPkg
+	url = git@github.com:tandasat/MiniVisorPkg.git
+[submodule "type3/skiboot"]
+	path = type3/skiboot
+	url = git@github.com:open-power/skiboot.git
