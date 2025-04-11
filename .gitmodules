@@ -34,9 +34,6 @@
 [submodule "type2/chameleon"]
 	path = type2/chameleon
 	url = git@github.com:rescbr/chameleon.git
-[submodule "type2/barebox"]
-	path = type2/barebox
-	url = git@github.com:barebox/barebox.git
 [submodule "type2/shim"]
 	path = type2/shim
 	url = git@github.com:rhboot/shim.git
@@ -55,9 +52,6 @@
 [submodule "type3/IMBootloader"]
 	path = type3/IMBootloader
 	url = git@github.com:IMProject/IMBootloader.git
-[submodule "type3/FreeRTOS-Kernel"]
-	path = type3/FreeRTOS-Kernel
-	url = git@github.com:FreeRTOS/FreeRTOS-Kernel.git
 [submodule "type3/threadx"]
 	path = type3/threadx
 	url = git@github.com:eclipse-threadx/threadx.git
@@ -70,9 +64,6 @@
 [submodule "type3/hafnium"]
 	path = type3/hafnium
 	url = https://review.trustedfirmware.org/hafnium/hafnium.git
-[submodule "type3/mbedtls"]
-	path = type3/mbedtls
-	url = git@github.com:Mbed-TLS/mbedtls.git
 [submodule "type3/lk"]
 	path = type3/lk
 	url = git@github.com:littlekernel/lk.git
@@ -106,3 +97,9 @@
 [submodule "type3/barebox"]
 	path = type3/barebox
 	url = https://github.com/barebox/barebox.git
+[submodule "type1/hostboot"]
+	path = type1/hostboot
+	url = https://github.com/open-power/hostboot.git
+[submodule "type2/skiboot"]
+	path = type2/skiboot
+	url = https://github.com/open-power/skiboot.git
