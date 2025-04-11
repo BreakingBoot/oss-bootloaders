@@ -109,3 +109,6 @@
 [submodule "type3/redboot"]
 	path = type3/redboot
 	url = https://github.com/hharte/ecos.git
+[submodule "type2/tboot-mirror"]
+	path = type2/tboot-mirror
+	url = https://github.com/BreakingBoot/tboot-mirror.git
