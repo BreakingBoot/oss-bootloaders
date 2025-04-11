@@ -112,3 +112,6 @@
 [submodule "type2/tboot-mirror"]
 	path = type2/tboot-mirror
 	url = https://github.com/BreakingBoot/tboot-mirror.git
+[submodule "type1/lbmk"]
+	path = type1/lbmk
+	url = https://codeberg.org/libreboot/lbmk.git
