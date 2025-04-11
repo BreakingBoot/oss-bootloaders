@@ -100,3 +100,9 @@
 [submodule "type2/lk2nd"]
 	path = type2/lk2nd
 	url = https://github.com/msm8916-mainline/lk2nd.git
+[submodule "type3/u-boot"]
+	path = type3/u-boot
+	url = https://github.com/u-boot/u-boot.git
+[submodule "type3/barebox"]
+	path = type3/barebox
+	url = https://github.com/barebox/barebox.git
