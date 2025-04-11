@@ -91,3 +91,12 @@
 [submodule "type2/skiboot"]
 	path = type2/skiboot
 	url = https://github.com/open-power/skiboot.git
+[submodule "type2/depthcharge"]
+	path = type2/depthcharge
+	url = https://chromium.googlesource.com/chromiumos/platform/depthcharge/
+[submodule "type2/lk"]
+	path = type2/lk
+	url = https://github.com/littlekernel/lk
+[submodule "type2/refind"]
+	path = type2/refind
+	url = https://git.code.sf.net/p/refind/code
