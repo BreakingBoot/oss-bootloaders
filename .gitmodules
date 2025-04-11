@@ -16,9 +16,6 @@
 [submodule "type2/tosaithe"]
 	path = type2/tosaithe
 	url = git@github.com:davmac314/tosaithe.git
-[submodule "type2/slimbootloader"]
-	path = type2/slimbootloader
-	url = git@github.com:slimbootloader/slimbootloader.git
 [submodule "type2/lbmk"]
 	path = type2/lbmk
 	url = https://codeberg.org/libreboot/lbmk.git
