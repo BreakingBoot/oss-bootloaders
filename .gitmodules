@@ -52,9 +52,6 @@
 [submodule "type3/IMBootloader"]
 	path = type3/IMBootloader
 	url = git@github.com:IMProject/IMBootloader.git
-[submodule "type3/threadx"]
-	path = type3/threadx
-	url = git@github.com:eclipse-threadx/threadx.git
 [submodule "type1/seabios"]
 	path = type1/seabios
 	url = git@github.com:coreboot/seabios.git
@@ -64,15 +61,9 @@
 [submodule "type3/hafnium"]
 	path = type3/hafnium
 	url = https://review.trustedfirmware.org/hafnium/hafnium.git
-[submodule "type3/lk"]
-	path = type3/lk
-	url = git@github.com:littlekernel/lk.git
 [submodule "type2/MiniVisorPkg"]
 	path = type2/MiniVisorPkg
 	url = git@github.com:tandasat/MiniVisorPkg.git
-[submodule "type3/skiboot"]
-	path = type3/skiboot
-	url = git@github.com:open-power/skiboot.git
 [submodule "type1/slimbootloader"]
 	path = type1/slimbootloader
 	url = https://github.com/slimbootloader/slimbootloader
