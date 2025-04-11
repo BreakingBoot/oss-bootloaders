@@ -28,15 +28,9 @@
 [submodule "type2/CloverBootloader"]
 	path = type2/CloverBootloader
 	url = git@github.com:CloverHackyColor/CloverBootloader.git
-[submodule "type2/u-boot"]
-	path = type2/u-boot
-	url = git@github.com:u-boot/u-boot.git
 [submodule "type2/limine"]
 	path = type2/limine
 	url = git@github.com:limine-bootloader/limine.git
-[submodule "type2/coreboot"]
-	path = type2/coreboot
-	url = git@github.com:coreboot/coreboot.git
 [submodule "type2/chameleon"]
 	path = type2/chameleon
 	url = git@github.com:rescbr/chameleon.git
@@ -88,3 +82,21 @@
 [submodule "type3/skiboot"]
 	path = type3/skiboot
 	url = git@github.com:open-power/skiboot.git
+[submodule "type1/slimbootloader"]
+	path = type1/slimbootloader
+	url = https://github.com/slimbootloader/slimbootloader
+[submodule "type1/coreboot"]
+	path = type1/coreboot
+	url = https://github.com/coreboot/coreboot.git
+[submodule "type1/openfirmware"]
+	path = type1/openfirmware
+	url = https://github.com/MitchBradley/openfirmware
+[submodule "type1/firmware-open"]
+	path = type1/firmware-open
+	url = https://github.com/system76/firmware-open.git
+[submodule "type2/OpenCorePkg"]
+	path = type2/OpenCorePkg
+	url = https://github.com/acidanthera/OpenCorePkg.git
+[submodule "type2/lk2nd"]
+	path = type2/lk2nd
+	url = https://github.com/msm8916-mainline/lk2nd.git
