@@ -100,3 +100,12 @@
 [submodule "type2/refind"]
 	path = type2/refind
 	url = https://git.code.sf.net/p/refind/code
+[submodule "type2/systemd"]
+	path = type2/systemd
+	url = https://github.com/systemd/systemd.git
+[submodule "type3/wolfBoot"]
+	path = type3/wolfBoot
+	url = https://github.com/wolfSSL/wolfBoot.git
+[submodule "type3/redboot"]
+	path = type3/redboot
+	url = https://github.com/hharte/ecos.git
