@@ -52,9 +52,6 @@
 [submodule "type3/arm-trusted-firmware"]
 	path = type3/arm-trusted-firmware
 	url = git@github.com:ARM-software/arm-trusted-firmware.git
-[submodule "type3/hafnium"]
-	path = type3/hafnium
-	url = https://review.trustedfirmware.org/hafnium/hafnium.git
 [submodule "type2/MiniVisorPkg"]
 	path = type2/MiniVisorPkg
 	url = git@github.com:tandasat/MiniVisorPkg.git
