@@ -115,3 +115,6 @@
 [submodule "type2/aboot"]
 	path = type2/aboot
 	url = https://github.com/mattst88/aboot.git
+[submodule "type3/bootloader"]
+	path = type3/bootloader
+	url = https://github.com/wookey-project/bootloader.git
