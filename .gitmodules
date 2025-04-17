@@ -109,3 +109,9 @@
 [submodule "type1/lbmk"]
 	path = type1/lbmk
 	url = https://codeberg.org/libreboot/lbmk.git
+[submodule "type3/firmware"]
+	path = type3/firmware
+	url = https://github.com/meshtastic/firmware.git
+[submodule "type2/aboot"]
+	path = type2/aboot
+	url = https://github.com/mattst88/aboot.git
