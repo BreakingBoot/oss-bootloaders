@@ -118,3 +118,24 @@
 [submodule "type3/bootloader"]
 	path = type3/bootloader
 	url = https://github.com/wookey-project/bootloader.git
+[submodule "type2/linuxboot"]
+	path = type2/linuxboot
+	url = https://github.com/linuxboot/linuxboot.git
+[submodule "type2/quibble"]
+	path = type2/quibble
+	url = https://github.com/maharmstone/quibble.git
+[submodule "type2/bootloader"]
+	path = type2/bootloader
+	url = https://github.com/rust-osdev/bootloader.git
+[submodule "type3/rustBoot"]
+	path = type3/rustBoot
+	url = https://github.com/nihalpasham/rustBoot.git
+[submodule "type2/x86-bootloader"]
+	path = type2/x86-bootloader
+	url = https://github.com/lukearend/x86-bootloader.git
+[submodule "type3/stm32-mw-openbl"]
+	path = type3/stm32-mw-openbl
+	url = https://github.com/STMicroelectronics/stm32-mw-openbl
+[submodule "type3/harmony"]
+	path = type3/harmony
+	url = https://github.com/Microchip-MPLAB-Harmony/bootloader
