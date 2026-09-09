@@ -139,3 +139,51 @@
 [submodule "type3/harmony"]
 	path = type3/harmony
 	url = https://github.com/Microchip-MPLAB-Harmony/bootloader
+[submodule "type1/oreboot"]
+	path = type1/oreboot
+	url = https://github.com/oreboot/oreboot.git
+[submodule "type1/mu_basecore"]
+	path = type1/mu_basecore
+	url = https://github.com/microsoft/mu_basecore.git
+[submodule "type1/edk2-platforms"]
+	path = type1/edk2-platforms
+	url = https://github.com/tianocore/edk2-platforms.git
+[submodule "type1/opensbi"]
+	path = type1/opensbi
+	url = https://github.com/riscv-software-src/opensbi.git
+[submodule "type2/u-root"]
+	path = type2/u-root
+	url = https://github.com/u-root/u-root.git
+[submodule "type2/petitboot"]
+	path = type2/petitboot
+	url = https://github.com/open-power/petitboot.git
+[submodule "type2/kexec-tools"]
+	path = type2/kexec-tools
+	url = https://github.com/horms/kexec-tools.git
+[submodule "type3/trusted-firmware-m"]
+	path = type3/trusted-firmware-m
+	url = https://github.com/TrustedFirmware-M/trusted-firmware-m.git
+[submodule "type3/optiboot"]
+	path = type3/optiboot
+	url = https://github.com/Optiboot/optiboot.git
+[submodule "type3/Adafruit_nRF52_Bootloader"]
+	path = type3/Adafruit_nRF52_Bootloader
+	url = https://github.com/adafruit/Adafruit_nRF52_Bootloader.git
+[submodule "type3/katapult"]
+	path = type3/katapult
+	url = https://github.com/Arksine/katapult.git
+[submodule "type3/tock-bootloader"]
+	path = type3/tock-bootloader
+	url = https://github.com/tock/tock-bootloader.git
+[submodule "type3/STM32duino-bootloader"]
+	path = type3/STM32duino-bootloader
+	url = https://github.com/rogerclarkmelbourne/STM32duino-bootloader.git
+[submodule "type3/mbed-bootloader"]
+	path = type3/mbed-bootloader
+	url = https://github.com/PelionIoT/mbed-bootloader.git
+[submodule "type2/bootboot"]
+	path = type2/bootboot
+	url = https://gitlab.com/bztsrc/bootboot.git
+[submodule "type2/syslinux"]
+	path = type2/syslinux
+	url = https://repo.or.cz/syslinux.git
