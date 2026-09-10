@@ -76,14 +76,14 @@ There is no CI: the update scripts live in the
 | Type | Bootloader | Commits | First Commit | Latest Commit |
 |------|-----------|---------|--------------|---------------|
 | Type 1 - Firmware | [LakeBIOS](https://github.com/AtieP/LakeBIOS) | 112 | 2021-06-20 | 2021-09-22 |
-| Type 1 - Firmware | [coreboot](https://github.com/coreboot/coreboot) | 64923 | 2003-04-15 | 2026-09-09 |
+| Type 1 - Firmware | [coreboot](https://github.com/coreboot/coreboot) | 59578 | 2003-04-15 | 2025-04-11 |
 | Type 1 - Firmware | [edk2](https://github.com/tianocore/edk2) | 33529 | 2006-04-21 | 2024-11-17 |
 | Type 1 - Firmware | [edk2-platforms](https://github.com/tianocore/edk2-platforms) | 4858 | 2017-08-03 | 2026-09-02 |
-| Type 1 - Firmware | [firmware-open](https://github.com/system76/firmware-open) | 960 | 2019-03-18 | 2026-08-24 |
-| Type 1 - Firmware | [hostboot](https://github.com/open-power/hostboot) | 25463 | 2010-05-13 | 2026-04-28 |
-| Type 1 - Firmware | [lbmk](https://codeberg.org/libreboot/lbmk) | 4126 | 2021-05-18 | 2026-09-07 |
+| Type 1 - Firmware | [firmware-open](https://github.com/system76/firmware-open) | 920 | 2019-03-18 | 2025-04-03 |
+| Type 1 - Firmware | [hostboot](https://github.com/open-power/hostboot) | 25462 | 2010-05-13 | 2024-05-21 |
+| Type 1 - Firmware | [lbmk](https://codeberg.org/libreboot/lbmk) | 2337 | 2021-05-18 | 2025-04-11 |
 | Type 1 - Firmware | [mu_basecore](https://github.com/microsoft/mu_basecore) | 35809 | 2006-04-21 | 2026-09-04 |
-| Type 1 - Firmware | [openbios](https://github.com/openbios/openbios) | 1636 | 2006-04-26 | 2026-07-04 |
+| Type 1 - Firmware | [openbios](https://github.com/openbios/openbios) | 1632 | 2006-04-26 | 2024-09-13 |
 | Type 1 - Firmware | [openfirmware](https://github.com/MitchBradley/openfirmware) | 3861 | 2006-11-13 | 2022-04-26 |
 | Type 1 - Firmware | [opensbi](https://github.com/riscv-software-src/opensbi) | 2225 | 2018-12-11 | 2026-09-05 |
 | Type 1 - Firmware | [oreboot](https://github.com/oreboot/oreboot) | 29214 | 2003-04-15 | 2026-07-13 |
@@ -106,6 +106,7 @@ There is no CI: the update scripts live in the
 | Type 2 - OS | [linuxboot](https://github.com/linuxboot/linuxboot) | 1045 | 2016-07-25 | 2024-12-03 |
 | Type 2 - OS | [lk](https://github.com/littlekernel/lk) | 2701 | 2008-09-01 | 2025-04-11 |
 | Type 2 - OS | [lk2nd](https://github.com/msm8916-mainline/lk2nd) | 8952 | 2005-06-08 | 2025-04-06 |
+| Type 2 - OS | [open-iscsi](https://github.com/open-iscsi/open-iscsi) | 2314 | 2005-01-01 | 2026-09-08 |
 | Type 2 - OS | [petitboot](https://github.com/open-power/petitboot) | 1520 | 2007-04-02 | 2026-01-12 |
 | Type 2 - OS | [quibble](https://github.com/maharmstone/quibble) | 371 | 2020-02-13 | 2024-06-23 |
 | Type 2 - OS | [refind](https://git.code.sf.net/p/refind/code) | 887 | 2012-03-25 | 2024-12-05 |

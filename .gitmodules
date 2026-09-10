@@ -31,9 +31,6 @@
 [submodule "type2/shim"]
 	path = type2/shim
 	url = git@github.com:rhboot/shim.git
-[submodule "type2/open-iscsi"]
-	path = type2/open-iscsi
-	url = git@github.com:open-iscsi/open-iscsi.git
 [submodule "type2/ipxe"]
 	path = type2/ipxe
 	url = git@github.com:ipxe/ipxe.git
@@ -187,3 +184,6 @@
 [submodule "type2/syslinux"]
 	path = type2/syslinux
 	url = https://repo.or.cz/syslinux.git
+[submodule "type2/open-iscsi"]
+	path = type2/open-iscsi
+	url = https://github.com/open-iscsi/open-iscsi.git
